@@ -1,0 +1,1 @@
+SELECT * FROM fmb.new_table;
